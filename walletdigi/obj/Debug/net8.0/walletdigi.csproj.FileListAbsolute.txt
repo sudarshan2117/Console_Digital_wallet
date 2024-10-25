@@ -1,0 +1,14 @@
+C:\Users\sudar\source\repos\walletdigi\bin\Debug\net8.0\walletdigi.exe
+C:\Users\sudar\source\repos\walletdigi\bin\Debug\net8.0\walletdigi.deps.json
+C:\Users\sudar\source\repos\walletdigi\bin\Debug\net8.0\walletdigi.runtimeconfig.json
+C:\Users\sudar\source\repos\walletdigi\bin\Debug\net8.0\walletdigi.dll
+C:\Users\sudar\source\repos\walletdigi\bin\Debug\net8.0\walletdigi.pdb
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\walletdigi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\walletdigi.AssemblyInfoInputs.cache
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\walletdigi.AssemblyInfo.cs
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\walletdigi.csproj.CoreCompileInputs.cache
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\walletdigi.dll
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\refint\walletdigi.dll
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\walletdigi.pdb
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\walletdigi.genruntimeconfig.cache
+C:\Users\sudar\source\repos\walletdigi\obj\Debug\net8.0\ref\walletdigi.dll
